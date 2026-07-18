@@ -29,6 +29,20 @@ The bot acts as a wrapper between the user interface (Telegram) and the AI infer
 3. Bot forwards the sanitized prompt to the local Stable Diffusion API (`http://host.docker.internal:7860`).
 4. The generated image is returned to the user, and the balance is updated.
 
+## 📸 Demo
+
+- **Live Demo (WebUI):** [https://dispatch-numbing-canister.ngrok-free.dev](https://dispatch-numbing-canister.ngrok-free.dev)
+
+**Portrait Generation**
+![Portrait](C:\Projects\botik\assets\Скриншот-20260718-234257.jpg)
+
+**Balance & /buy Command**
+![Buy](C:\Projects\botik\assets\Скриншот-20260719-005001.jpg)
+
+**Content Moderation**
+![Moderation](C:\Projects\botik\assets\Скриншот-20260719-004920.jpg)
+
+
 ## 🏃 How to Run (Locally)
 
 1. Ensure **Docker Desktop** is installed and running.
