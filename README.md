@@ -1,3 +1,4 @@
+
 # AI Image Generator Telegram Bot 🎨🤖
 
 A Dockerized Telegram bot that generates photorealistic images using a local Stable Diffusion instance. The bot is designed for educational purposes and showcases skills in Python, AI integration, containerization, and database management.
@@ -58,3 +59,7 @@ This project is open-source and available under the MIT License.
 
 
 
+
+# telegram-ai-bot
+A Dockerized Telegram bot for AI image generation using Stable Diffusion.
+ 83f36dd4c14c74042f7bcedb03cda88e588ca0d1
