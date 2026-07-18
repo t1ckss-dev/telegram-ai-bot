@@ -33,19 +33,16 @@ The bot acts as a wrapper between the user interface (Telegram) and the AI infer
 
 - **Live Demo (WebUI):** [https://dispatch-numbing-canister.ngrok-free.dev](https://dispatch-numbing-canister.ngrok-free.dev)
 
-**Portrait Generation**
-![Portrait](C:\Projects\botik\assets\Скриншот-20260718-234257.jpg)
+![Portrait Generation](assets/20260718-232357.jpg)
 
-**Balance & /buy Command**
-![Buy](C:\Projects\botik\assets\Скриншот-20260719-005001.jpg)
+![Balance & /buy Command](assets/20260718-234028.jpg)
 
-**Content Moderation**
-![Moderation](C:\Projects\botik\assets\Скриншот-20260719-004920.jpg)
-
+![Content Moderation](assets/20260719-003001.jpg)
 
 ## 🏃 How to Run (Locally)
 
 1. Ensure **Docker Desktop** is installed and running.
+
 2. Clone the repository:
    ```bash
    git clone https://github.com/t1ckss-dev/telegram-ai-bot.git
