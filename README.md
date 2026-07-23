@@ -31,13 +31,15 @@ The bot acts as a wrapper between the user interface (Telegram) and the AI infer
 
 ## 📸 Demo
 
-- **Live Demo (WebUI):** [https://dispatch-numbing-canister.ngrok-free.dev](https://dispatch-numbing-canister.ngrok-free.dev)
+- **Live Demo (WebUI):** [https://dispatch-numbing-canister.ngrok-free.dev)
 
 ![Portrait Generation](assets/1.jpg)
 
 ![Balance & /buy Command](assets/3.jpg)
 
 ![Content Moderation](assets/2.jpg)
+
+![Buy](assets/4.jpg)
 
 ## 🏃 How to Run (Locally)
 
